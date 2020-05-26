@@ -1,2 +1,2 @@
-//Printar Hello World! na tela
+//Printar Hello
 console.log("Hello World!\n");
